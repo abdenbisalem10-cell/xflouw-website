@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xflouw.abdenbisalem10.workers.dev/sitemap.xml
